@@ -27,6 +27,7 @@ You can also either do the same thing with circles mixed with squares by using t
 ![image](https://user-images.githubusercontent.com/93252510/231883587-0d36ebe5-7001-4b30-8c70-2e5f90931e07.png)
 
 Or you can do it with squares only
+
 ![image](https://user-images.githubusercontent.com/93252510/231883718-9801add5-81d9-4b59-bb70-b8733dca7810.png)
 
 I hope you enjoyed this little moment painting beautiful pictures 
